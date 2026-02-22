@@ -63,7 +63,7 @@ export default function WorkExperience() {
                 </View>}
 
                 <Pressable style={styles.volunteerDisplayButton} onPress={() => setCre8iowaDisplay(!cre8iowaDisplay)}>
-                    <Text style={styles.jobTitle}>{cre8iowaDisplay && "-   "}{!cre8iowaDisplay && "+  "}cre8iowa Board Member</Text>
+                    <Text style={styles.jobTitle}>{cre8iowaDisplay && "-   "}{!cre8iowaDisplay && "+  "}Cre8iowa Board Member</Text>
                 </Pressable>
                 {cre8iowaDisplay && <View>
                     <Text style={styles.jobDescriptionDates}>November 2011 to November 2015</Text>

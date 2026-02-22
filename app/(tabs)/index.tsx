@@ -11,11 +11,11 @@ export default function Index() {
                 <Text style={[styles.standardText, {textDecorationLine: "underline"}]}>samuel.p.hapke@gmail.com</Text>
 
                 <Text style={styles.subHeader}>Summary</Text>
-                <Text style={styles.standardText}>Adaptive, Self-Motivated, and Diligent worker. Currently working in React Native.</Text>
+                <Text style={styles.standardText}>Adaptive, Self-Motivated, and Diligent worker. Currently pursuing an AAS Computer Information Systems from DMACC.</Text>
                 <Text style={styles.standardText}>Interested in learning more development languages, and always seeking to deepen my knowledge.</Text>
                 <Text style={styles.subHeader}>Skills</Text>
                 <Text style={styles.standardText}>Independence, Organization, Communication.</Text>
-                <Text style={styles.standardText}>current experience in javascript, html, and react native.</Text>
+                <Text style={styles.standardText}>experience in Java, Javascript, html, C++, SQL, and React Native.</Text>
                 <View style={{flexDirection: "row"}}>
                     <View style={{flex: 1, alignItems: "center"}}>
                         <Text style={styles.subHeader}>HackerRank</Text>

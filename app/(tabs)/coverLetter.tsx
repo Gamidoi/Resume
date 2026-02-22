@@ -32,10 +32,10 @@ export default function CoverLetter() {
                 students with different needs.
             </Text>
             <Text style={styles.coverLetterText}>       As I carry my lessons forward, I am independent and self motivated, but I will always
-                need a team to rely on. I am currently teaching myself Javascript, html, and React Native, I began this journey in December 2024
-                and have been leaning into it as fully as I am able. I have been guided along the way by my brother, Peter and many others besides.
-                In these short weeks, I have adapted and learned quickly, to the point where I can be proud of my growing portfolio. and look
-                forward to the accomplishments I will be capable of in the next months and years.
+                need a team to rely on. I began teaching myself Javascript, html, and React Native in December 2024 and have been attending DMACC
+                courses since August 2025, expanding my knowledge to Java, C++ and SQL. I have been guided along the way by my brother, Peter
+                and many others besides. I have adapted and learned quickly, to the point where I can be proud of my growing portfolio. and look
+                forward to the accomplishments I will be capable of in the coming years.
             </Text>
         </ScrollView>
     )}
