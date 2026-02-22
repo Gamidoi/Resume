@@ -53,7 +53,7 @@ export default function WorkExperience() {
                 </View>
 
                 <Pressable style={styles.volunteerDisplayButton} onPress={() => setDICoachingDisplay(!DICoachingDisplay)}>
-                    <Text style={styles.jobTitle}>{DICoachingDisplay && "-   "}{!DICoachingDisplay && "+  "}Coach for Middle and High school Destination Imagination</Text>
+                    <Text style={styles.jobTitle}>{DICoachingDisplay && "-   "}{!DICoachingDisplay && "+  "}Coach for Middle and High School Destination Imagination</Text>
                 </Pressable>
                 {DICoachingDisplay && <View>
                     <Text style={styles.jobDescriptionDates}>Fall 2009 to Spring 2015</Text>
